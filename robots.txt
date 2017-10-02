@@ -1,1 +1,1 @@
-Sitemap: https://w1t3k.com/sitemap.xml
+Sitemap: https://w1t3k.com//sitemap.xml

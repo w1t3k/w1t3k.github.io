@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://w1t3k.com/about/</loc>
+<loc>https://w1t3k.com//about/</loc>
 </url>
 <url>
-<loc>https://w1t3k.com/</loc>
+<loc>https://w1t3k.com//</loc>
 </url>
 <url>
-<loc>https://w1t3k.com/productivity/</loc>
+<loc>https://w1t3k.com//productivity/</loc>
 </url>
 <url>
-<loc>https://w1t3k.com/programming/</loc>
+<loc>https://w1t3k.com//programming/</loc>
 </url>
 <url>
-<loc>https://w1t3k.com/projects/</loc>
+<loc>https://w1t3k.com//projects/</loc>
 </url>
 </urlset>
